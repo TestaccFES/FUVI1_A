@@ -33,7 +33,7 @@ Nástroj by převážně využívali vědečtí a výzkumní pracovníci na univ
 
 Jelikož každý vědecký pracovník má svou metodiku a cíl práce, je potřebo zohlednit možnosti vyhledávání v systému - tedy by se dalo uvažovat nad možností filtrování dle oboru, scientometrických ukazatelů, metodikou zpracování, ať už seznamově, či shulkově.
 
-![alt text](diagram.png)
+<img src="diagram.png" alt="My Image" width="400"/>
 
 # 5. Výzvy a omezení
 Projekt sám osobě slouží pouze jako inteligentní pomocník při rešerši. To znamená, že sám nehodnotí obsahovou kvalitů publikací, autory, ani nevytváří vlastní vědecké závěry.
