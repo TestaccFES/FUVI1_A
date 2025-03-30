@@ -16,7 +16,7 @@ Tento problém je velmi významný a frekventovaně se vyskytující, obzvlášt
 Motivací při navhrování tohoto tématu je osobní zájem o vědu a vlastní zkušenost s neefektivní rešerší.
 
 
-Téma AI scientometrického nástroje mi přijde velmi důležité, jelikož spojením AI nástrojů a scientometrie může výrazně zefektivnit výzkumnou činnost a pomoci i při hodnocení vědeckých výstupů. 
+Téma AI scientometrického nástroje mi přijde velmi důležité, jelikož spojení AI nástrojů a scientometrie může výrazně zefektivnit výzkumnou činnost a pomoci i při hodnocení vědeckých výstupů. 
 
 
 # 3. Data a AI techniky
