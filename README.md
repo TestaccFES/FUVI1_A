@@ -26,12 +26,14 @@ Za spolehlivé zdroje dat bych považoval přímo vědecké platoformy, jejiž A
 Mezi klíčové AI techniky, kterými by se systém realizoval patří **Natural language processing**, **vektorové vyhledávání**, a pro zpracování grafových vstupů **Graph neural network**.
 
 
+
 # 4. Použití
 Nástroj by převážně využívali vědečtí a výzkumní pracovníci na univerzitách při psaní vědeckého článku, hodnocení kvality výzkumu nebo návrhu projektu.
 
 
 Jelikož každý vědecký pracovník má svou metodiku a cíl práce, je potřebo zohlednit možnosti vyhledávání v systému - tedy by se dalo uvažovat nad možností filtrování dle oboru, scientometrických ukazatelů, metodikou zpracování, ať už seznamově, či shulkově.
 
+![alt text](diagram.png)
 
 # 5. Výzvy a omezení
 Projekt sám osobě slouží pouze jako inteligentní pomocník při rešerši. To znamená, že sám nehodnotí obsahovou kvalitů publikací, autory, ani nevytváří vlastní vědecké závěry.
@@ -43,3 +45,10 @@ Nabízí se i otázka týkající se případných omezení přístupu k datům,
 Mezi možnosti růstu bych považoval integraci s jiným SW (např. se SW **Mendeley** by AI nástroj rovnou mohl vytvářet normované citace) nebo vytvářením personalizovaných profilů na základě předchozího vyhledávání uživatele.
 
 Projekt by se též dal naškálovat pomocí Cloudové API, kterým by se nástroj dal integrovat do aplikačního webového rozhraní (např. DuckDuckGo nebo Google Scholar).
+
+
+# 7. Poděkování a zdroje
+Projekt vznikl jako osobní iniciativa s cílem zjednodušit a zpřehlednit vědeckou rešerši pomocí moderních nástrojů umělé inteligence. Hlavní inspirací pro návrh funkcionality projektu ScientAgent byl nástroj Semantic Scholar, umožňující vyhledávání v databázi vědeckých publikací.
+
+
+Zpracovali: Ondřej Ruml & Maksim Varfolomeev
