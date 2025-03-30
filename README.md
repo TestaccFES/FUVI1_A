@@ -1,5 +1,7 @@
 # 1. Shrnutí nápadu
 **ScientAgent**
+
+
 Jedná se o nástroj sloužící jako inteligentní asistent, který vědeckým pracovníkům pomáha automaticky vyhledávat, porovnávat a analyzovat vědecké publikace a jejich autory na platformách jako jsou **ResearchGate**, **Google Scholar**, **ArXiv**, **Scopus**, **Web of science**.
 
 
